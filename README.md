@@ -4,4 +4,4 @@
 
 **ROM**: ROM Images from CERES and CERES-3 Workstations
 
-**Documentation**: Disertations, Technical Reports, and Hardware Manuals
+**Documentation**: Manuals, Disertations, Technical Reports, Technical Memos, Schematics, and Personal Notes
