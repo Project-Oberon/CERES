@@ -1,6 +1,6 @@
 # CERES Workstations Family ETH Technical Reports
 
-**070.pdf**: Hardware Descripton of the Workstation Ceres. Hans Eberle. January 1987
+**070.pdf**: Hardware Description of the Workstation Ceres. Hans Eberle. January 1987
 
 **078.pdf**: Porting Medos-2 onto the Ceres Workstation. Frank Peschel and Matthias Wille. April 1987
 
