@@ -8,6 +8,6 @@
 
 **Memos**: ETH Technical Memos
 
-**Notes**: ETH/Personal Notes
+**Notes**: Personal Notes
 
-**Manuals**: Hardware/Software Manuals
+**Manuals**: Software Manuals
